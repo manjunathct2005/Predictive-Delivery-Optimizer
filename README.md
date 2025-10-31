@@ -16,3 +16,6 @@ This project stands out for integrating AI-driven analytics with real-time logis
 
 The Predictive Delivery Optimizer was created by **Chinna Thimmanna Gari Manjunath**, a B.Tech Computer Science and Engineering student at **Jain University**. It demonstrates end-to-end expertise in data science, feature engineering, model training, and deployment. The project provides a scalable, explainable, and impactful solution for optimizing logistics and last-mile delivery performance.
 """
+
+
+Live Demo - (https://predictive-delivery-optimizer-manjunath.streamlit.app/)
